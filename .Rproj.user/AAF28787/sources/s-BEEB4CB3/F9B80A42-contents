@@ -1,7 +1,0 @@
-#Tuple is a package that extends the base R funtionality around checking for unique and duplicate values in vectors
-# A vector simplest type of data structure in R. Simply put, a vector is a sequence of data elements of the same basic type. 
-# Members of a vector are called Components.
-#Example of a vector c(1,2,3)
-c(1,2,3)
-
-  
